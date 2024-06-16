@@ -1,1 +1,1 @@
-typescript
+Cryptostock
